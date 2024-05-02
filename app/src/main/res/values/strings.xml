@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ST10456871_Assignment2</string>
+    <string name="appHeader">Welcome To My Pet Goofy</string>
+    <string name="feedButton">Feed</string>
+    <string name="playButton">Play</string>
+    <string name="cleanButton">Clean</string>
+    <string name="proceedButton">Press to play</string>
+    <string name="textHunger">Hunger</string>
+    <string name="textClean">Clean</string>
+    <string name="textHappy">Happy</string>
+</resources>
